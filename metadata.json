@@ -1,0 +1,6 @@
+{
+  "name": "Novexa Academy",
+  "description": "Ultra-premium SaaS-style course landing page for Novexa Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

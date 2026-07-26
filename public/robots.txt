@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novexaacademy.com/sitemap.xml
