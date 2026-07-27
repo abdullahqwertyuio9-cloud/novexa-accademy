@@ -433,3 +433,81 @@ export const COURSES_DATA: Course[] = [
   }
   */
 ];
+   }
+,
+{
+  ,
+{
+  id: 'digital-branding-build-your-brand',
+  title: 'Digital Branding – Build Your Brand',
+  badge: 'Best Seller',
+  category: 'branding',
+  shortDescription: 'Learn how to build a powerful personal and business brand from scratch using modern branding strategies.',
+  fullDescription: 'This complete branding course teaches you how to create a memorable brand identity, design a professional logo, choose brand colors and typography, build trust on social media, and grow your business with effective digital branding techniques.',
+  priceUSD: 59,
+  pricePKR: '15,000',
+  originalPricePKR: '30,000',
+  duration: '5 Weeks',
+  level: 'Beginner',
+  rating: 4.99,
+  reviewsCount: 185,
+  studentsCount: 1650,
+  popular: true,
+  instructor: {
+    name: 'Abdullah',
+    role: 'Brand Strategist & Digital Marketing Expert',
+    avatar: ''
+  },
+  keyHighlights: [
+    'Personal & Business Branding',
+    'Professional Logo & Identity Design',
+    'Brand Color & Typography Selection',
+    'Social Media Branding Strategy',
+    'Build Trust & Increase Sales'
+  ],
+  modules: [
+    {
+      number: 1,
+      title: 'Brand Foundations',
+      duration: 'Week 1',
+      lessons: [
+        'What is Branding?',
+        'Finding Your Brand Identity',
+        'Understanding Your Target Audience'
+      ]
+    },
+    {
+      number: 2,
+      title: 'Visual Identity',
+      duration: 'Week 2',
+      lessons: [
+        'Logo Design Principles',
+        'Brand Colors & Typography',
+        'Creating Brand Guidelines'
+      ]
+    },
+    {
+      number: 3,
+      title: 'Digital Presence',
+      duration: 'Week 3-4',
+      lessons: [
+        'Social Media Branding',
+        'Website Branding',
+        'Content Strategy'
+      ]
+    },
+    {
+      number: 4,
+      title: 'Growth & Authority',
+      duration: 'Week 5',
+      lessons: [
+        'Building Brand Trust',
+        'Marketing Your Brand',
+        'Scaling Your Brand Online'
+      ]
+    }
+  ],
+  icon: 'Sparkles',
+  gradient: 'from-pink-500/20 via-purple-500/10 to-indigo-500/5',
+  accentColor: '#EC4899'
+}
